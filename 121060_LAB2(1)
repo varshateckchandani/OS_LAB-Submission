@@ -1,0 +1,54 @@
+cat -> concatenate
+factor 60 ->gives prime factor of the number 60
+spell filename ->spell check
+!! ->runs the last command
+seq 60 -> displays sequence 1 to 60
+seq 60 70 -> displays sequence 60 to 70
+seq 60 2 70 -> displays sequence 60 to 70 with increment of 2
+uname -n ->gives node name 
+sudo shutdown -r 12 ->reboots the system after 12 mins  (ctrl +C will stop reboot)
+diff file file1 ->Find the difference between file and file1
+du -> estimate file space usage (usga of every file)
+df -> report file system disk space usage (overall usage of only file syatems)
+du -h -> gives size in human readable format i.e rather than bits and bytes it give is KB
+tty -> pointer name of any i/o device connected. 
+cmp -> compares two files. only returns if files are different or same. and the byte where they differ
+who ->show who is logged on
+who -H -> print line of column headings. if 3 terminals are open then it shows pts/1 pts/2 pts/3
+fsck -> (file system check) checks and repairs file linux file system
+aspell -c filename -> spell checks a single file and gives an option to change it
+aspell -a -> allows to write and shows options to mis-spelled words
+whereis perl -> List the directories where the perl source files, documentation, and binaries are stored.
+cpio ->copy files to and from archives
+lpinfo -m -> lpinfo lists the available devices or drivers known to the CUPS server. The first form (-m) lists the 			available drivers
+lpinfo -v -> (-v) lists the available devices.
+znew ->   recompress .Z files to .gz files
+rev filename -> reverse the line contents of the file
+chown -> change the owner and group of the files
+enable -> enables commands
+last, lastb -> show listing of last logged in users
+sort -> sort lines of text files by first letter of each line
+unexpand filename ->
+yes -> output a string repeatedly until killed
+sync -> flush file system buffers
+ifconfig -> configure a network interface
+startx -> starts X session ie A blank screen so whatever process is going on will keep on running at the back but no one 			beable to interact with anything. CTRL+F7 will bring the UI back
+ps -u -> gives all things you are running. ie like a task manager
+who -b ->  time of last system boot
+who -d ->print dead processes ie zoombie processes
+uname -a -> print  all system information,  in the following order, except omit -p
+              and -i if unknown:
+free -> Display amount of free and used memory in the system in KB
+screen-> clears screen
+screen c -> open virtual terminal for 2 seconds and then comes back to original terminal
+sdiff -> find differences between two files and merge interactively
+watch ->execute a program periodically, showing output fullscreen
+cal -> displays a calendar
+bzip2, bunzip2 -> a block-sorting file compressor, v1.0.3
+lsusb -> list USB devices
+head filename -> prints the first part of "filename" on terminal
+top -> display Linux tasks
+dmesg -> print or control the kernel ring buffer
+free -m -> shows free space in MB
+jobs -> shows the jobs done 
+
