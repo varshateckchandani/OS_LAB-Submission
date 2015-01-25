@@ -47,7 +47,7 @@ cal -> displays a calendar
 bzip2, bunzip2 -> a block-sorting file compressor, v1.0.3
 lsusb -> list USB devices
 head filename -> prints the first part of "filename" on terminal
-top -> display Linux tasks
+top -> display Linux ongoing tasks
 dmesg -> print or control the kernel ring buffer
 free -m -> shows free space in MB
 jobs -> shows the jobs done 
