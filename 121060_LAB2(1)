@@ -8,8 +8,8 @@ seq 60 2 70 -> displays sequence 60 to 70 with increment of 2
 uname -n ->gives node name 
 sudo shutdown -r 12 ->reboots the system after 12 mins  (ctrl +C will stop reboot)
 diff file file1 ->Find the difference between file and file1
-du -> estimate file space usage (usaga of every file)
-df -> report file system disk space usage (overall usage of only file syatems)
+du -> estimate file space usage (usage of every file)
+df -> report file system disk space usage (overall usage of only file systems)
 du -h -> gives size in human readable format i.e rather than bits and bytes it give is KB
 tty -> pointer name of any i/o device connected. 
 cmp -> compares two files. only returns if files are different or same. and the byte where they differ
