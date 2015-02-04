@@ -1,3 +1,0 @@
-cat *.txt
-gnome-open http://google.com  // sensible-browser  // firefox
-grep -ve "and" < temp.text
