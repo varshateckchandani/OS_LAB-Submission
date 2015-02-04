@@ -1,0 +1,40 @@
+LINUX LAB- 3 ASSIGNMENT
+
+UNIX commands for the following:
+
+1.	Use the cat command, and display all the .txt files in the current directory on the screen at one go.
+•	cat *.txt  
+•	ls *.txt
+
+2.	To start any web browser from the command prompt.
+•	gnome-open http://google.com 
+•	sensible-browser  
+•	firefox
+
+3.	To list lines that does not include ‘and’ in a text file.
+•	grep -ve "and" < temp.text
+
+4.	To compress all .dat files in the current directory and vice versa.
+•	gzip *.dat gunzip *.dat.gz
+
+5.	To list all the files in the present working directory including the hidden files. 
+•	ls -a
+
+6.	To show all the files in the subdirectories of a directory.
+•	ls -LR
+
+7.	To make changes into environmental variables.
+•	PATH=$PATH:~/users/
+
+8.	To sort the lines of a file into reverse order.
+•	sort -r
+
+9.	To create a hard link to myfile.txt in the current directory assuming that it is not public_html.
+•	ln public_html/myfile.txt
+
+10.	To search for a certain pattern in the files existing in the current directory.
+•	find hello
+
+
+
+Shell Scripts are in the folder Lab3_codes
