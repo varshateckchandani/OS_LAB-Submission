@@ -1,0 +1,10 @@
+cat *.txt  // ls *.txt
+gnome-open http://google.com  // sensible-browser  // firefox
+grep -ve "and" < temp.text
+gzip *.dat gunzip *.dat.gz
+ls -a
+ls -LR
+PATH=$PATH:~/users/
+sort -r
+ln public_html/myfile.txt
+grep lab.txt jan
