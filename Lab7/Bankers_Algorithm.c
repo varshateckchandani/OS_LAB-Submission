@@ -1,4 +1,7 @@
-/* Referenced with varsha teckchandani and juhi maheshwari */
+/* 
+*Banker's Algorithm 
+*Referenced with Erali Shah(121012) and Juhi *Maheshwari(121020) 
+*/
 
 
 #include <stdio.h>
